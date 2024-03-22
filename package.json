@@ -3,7 +3,7 @@
   "name": "@eartho/one-client-js",
   "description": "Eartho SDK for authentication, verification and payments",
   "license": "Eartho",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "main": "dist/lib/one-client-js.cjs.js",
   "types": "dist/typings/index.d.ts",
   "module": "dist/one-client-js.production.esm.js",

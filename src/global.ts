@@ -64,7 +64,6 @@ export interface AuthorizationParams {
    * Note: The `openid` scope is **always applied** regardless of this setting.
    */
   scope?: string;
-  access_id?: string;
 
   /**
    * The default audience to be used for requesting API access.
