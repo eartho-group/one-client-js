@@ -9,7 +9,7 @@
   <h1 align="center">Eartho.</h1>
 
   <p align="center">
-    One line of code to authenticate users via<br /><b>Any social network, crypto wallet and phone authentication</b><br /><br />
+    One line of code to authenticate and charge users via<br /><b>Any social network, crypto wallet, phone authentication, and payment processor</b><br /><br />
 
 Eartho introduces the first free shared access infrastructure for developers.<br />
 Free user management for all platforms:  authentication, verification & payments.<br />
